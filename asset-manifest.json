@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eConLogin/static/css/main.f0311606.css",
-    "main.js": "/eConLogin/static/js/main.a5428e46.js",
-    "static/js/787.237400ff.chunk.js": "/eConLogin/static/js/787.237400ff.chunk.js",
-    "index.html": "/eConLogin/index.html",
-    "main.f0311606.css.map": "/eConLogin/static/css/main.f0311606.css.map",
-    "main.a5428e46.js.map": "/eConLogin/static/js/main.a5428e46.js.map",
-    "787.237400ff.chunk.js.map": "/eConLogin/static/js/787.237400ff.chunk.js.map"
+    "main.css": "/fly-shake/static/css/main.f0311606.css",
+    "main.js": "/fly-shake/static/js/main.25f76781.js",
+    "static/js/787.237400ff.chunk.js": "/fly-shake/static/js/787.237400ff.chunk.js",
+    "index.html": "/fly-shake/index.html",
+    "main.f0311606.css.map": "/fly-shake/static/css/main.f0311606.css.map",
+    "main.25f76781.js.map": "/fly-shake/static/js/main.25f76781.js.map",
+    "787.237400ff.chunk.js.map": "/fly-shake/static/js/787.237400ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0311606.css",
-    "static/js/main.a5428e46.js"
+    "static/js/main.25f76781.js"
   ]
 }
