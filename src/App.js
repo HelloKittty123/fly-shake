@@ -28,6 +28,7 @@ function App() {
       setIsLogin(true);
       toast.success("Đăng nhập thành công");
       setIsLoading(false);
+      await handleCheckIn();
     } else {
       toast.error(res.message);
       setIsLoading(false);
