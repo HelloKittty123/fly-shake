@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fly-shake/static/css/main.f0311606.css",
+    "main.js": "/fly-shake/static/js/main.b356b143.js",
+    "static/js/787.237400ff.chunk.js": "/fly-shake/static/js/787.237400ff.chunk.js",
+    "index.html": "/fly-shake/index.html",
+    "main.f0311606.css.map": "/fly-shake/static/css/main.f0311606.css.map",
+    "main.b356b143.js.map": "/fly-shake/static/js/main.b356b143.js.map",
+    "787.237400ff.chunk.js.map": "/fly-shake/static/js/787.237400ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0311606.css",
+    "static/js/main.b356b143.js"
+  ]
+}
